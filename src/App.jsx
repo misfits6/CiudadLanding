@@ -14,7 +14,7 @@ function App() {
           src="entropia.jpeg"
           alt=""
         /> */}
-        <video src={videoBg} autoPlay loop />
+        <video src={videoBg} autoPlay loop muted />
       </div>
 
       <div className="bg-inherit">
