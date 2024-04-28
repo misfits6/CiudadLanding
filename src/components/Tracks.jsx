@@ -2,9 +2,9 @@ import React from "react";
 
 const Tracks = () => {
   return (
-    <div className="grid justify-center gap-8 mt-4 mx-auto max-w-[1200px] ">
+    <div className="font-tac grid justify-center gap-8 mt-4 mx-auto max-w-[1200px] ">
       <h1 className="glass px-8 text-gray-300 text-3xl h-16 items-center justify-center flex">
-        Sencillos de ENTROPÍA
+        SENCILLOS DE ENTROPÍA
       </h1>
 
       <div className="grid gap-4 md:grid-cols-3 grid-cols-1">
@@ -43,7 +43,7 @@ const Tracks = () => {
       </div>
 
       <h1 className="glass px-8 text-gray-300 text-3xl h-16 items-center justify-center flex">
-        Primer EP
+        PRIMER EP
       </h1>
       <iframe
         // style="border-radius:12px"
