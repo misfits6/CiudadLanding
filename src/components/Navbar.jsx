@@ -9,7 +9,7 @@ const Navbar = () => {
     setNav(!nav);
   };
   return (
-    <div className="glass bg-[url('src/assets/background.jpg')] bg-opacity-30 text-gray-300 p-8 h-[96px] max-w-[1200px] flex justify-between items-center mx-auto">
+    <div className="glass bg-[url('background.jpg')] bg-opacity-30 text-gray-300 p-8 h-[96px] max-w-[1200px] flex justify-between items-center mx-auto">
       <div className="flex justify-center items-center gap-4">
         <img className="w-14" src="src\assets\logo.png" alt="" />
         <h1 className="text-xl font-bold ">Ciudad Vorágine</h1>

@@ -14,7 +14,7 @@ import Video from "./components/Video";
 function App() {
   return (
     <>
-      <div className="bg-[url('src/assets/background2.jpg')]">
+      <div className="bg-[url('background2.jpg')]">
         <Navbar />
         <Hero />
         <Tracks />
